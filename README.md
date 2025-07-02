@@ -7,6 +7,7 @@ Python ile dosya ve klasör işlemlerini öğrenmek için hazırlanmış Jupyter
 - Dosya filtreleme (.txt)
 - Dosya kopyalama/taşıma
 - İşlem loglama
+- Zip arşivi oluşturma
 
 ## Kullanım
 1. `jupyter notebook` ile açın
